@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631287589 source:c:\users\richa\desktop\githubrepos\operating-system-study-notes\c5_process_api\ex1_fork.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
